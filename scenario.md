@@ -29,3 +29,13 @@ Git just created a new directory called `intro-to-git-starter-kit` containing al
       -rw-r--r--   1 emily  staff    13 Sep 24 23:00 index.html
 
 She can now open the 'intro-to-git-starter-kit' folder with Sublime in order to make her changes.
+
+
+@TODO
+- Add content
+- Commit+Push content
+- Other user modifies content
+- Deal with conflicts
+- Gains read/write to company repo
+- Creates branch on company repo to work on stuff
+- Merge branch back into master
